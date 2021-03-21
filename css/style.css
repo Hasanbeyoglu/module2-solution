@@ -14,5 +14,5 @@
 	.md-2 {width: 46.5%; float:left;margin-left:2.49%;}
 	}
 	@media (max-width: 767px) {
-	.sm-1 {max-width: 300px; width: 90%; margin:10px auto;}
+	.sm-1 {max-width: 300px; width: 90%; margin:25px auto;}
 	}
